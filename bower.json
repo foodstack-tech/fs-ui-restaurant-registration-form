@@ -1,0 +1,24 @@
+{
+  "name": "fs-ui-restaurant-registration-form",
+  "authors": [
+    "Eduardo Echeverria <eduardo@foodstack.mx>",
+    "Sunny Wong <sunny@foodstack.mx>",
+    "Foodstack <tech@foodstack.mx>"
+  ],
+  "description": "",
+  "main": "fs-ui-restaurant-registration-form.html",
+  "keywords": [
+    "Foodstack",
+    "restaurant",
+    "registration"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
